@@ -1,0 +1,7 @@
+<img src="faceimg/private/gobinda.jpg" height="200px"width="200px"　title="写真">
+<img src="faceimg/private/16748.jpg"height="200px" width="200px"title="写真1">
+<a href="faceimg/private/2-1.jpg"target="_blank"><img src="faceimg/private/2-1.jpg"height="200px"widt="200px"title="title="写真２"></a>
+    <img src="facimg/private/3-1.jpg" height="200px" width="200px"title="写真3>
+
+</html>
+
