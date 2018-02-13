@@ -16,7 +16,7 @@ body{
 /*	border: solid 1px black;	*/
 }
 #faceImage{
-	width: 30mm;
+/*	width: 30mm;	*/
 	height: 40mm;
 /*	border: solid 1px black;	*/
 }
@@ -78,7 +78,7 @@ body{
 
 #tokugiInfo{
 	margin-bottom: 20px;
-
+	background: lightyellow;
 }
 a{
 	background: 	perple;
