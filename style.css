@@ -1,0 +1,79 @@
+header{
+	border:	solid 1px red;
+	text-align:	center;
+	
+}
+nav{
+	border:	solid 1px red;
+	width:	100%;
+	text-align:center;
+}
+section{
+	border:	solid 1px red;
+	
+}
+footer{
+	border:	solid 1px red;
+}
+.cPersonal{
+	width: 150px;
+	height:	275px;
+	border: solid 1px yellow;	
+	float:	left;
+	margin:	5px;
+}
+
+.cPersonal_dummy{
+	width: 150px;
+/*	height:	216px;	*/
+	height:	275px;
+	float:	left;
+	margin:	5px;
+}
+
+.cFace{
+	width:	150px;
+	height:	170px;
+	border:	solid 2px perple;
+	
+}
+.cName{
+	margin-top:9px;
+	text-align:	center;
+	background-color: yellow;
+	height: 13ex;
+
+}
+section{
+
+}
+.classImage{
+	width:	180px;
+}
+.classContent{
+	border:	solid 1px red;
+	
+}
+.content{
+	clear:	both;
+	display:	flex;
+	flex-wrap:	wrap;
+}
+.classAM{
+	float:	left;
+	width:	50%;
+}
+.classPM{
+	float:	left;
+	width:	50%;
+
+}
+.classImage{
+	width:	400px;
+	text-align:center;
+	border:	solid 1px red;
+}
+
+.classTitle{
+	text-align: center;
+}
